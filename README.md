@@ -2,7 +2,7 @@
 
 # ⚡ KULDEEP KELDE ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Java+Backend+Developer+☕;Spring+Boot+Expert;Microservices+Architect" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Java+Backend+Developer+☕;Spring+Boot+Enthusiast;Microservices+Architecture" alt="Typing Animation"/>
 
 <br><br>
 
@@ -95,7 +95,7 @@ public class KuldeepKelde {
 
 ## 🩸 Rakht Saathi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Blood+Donation+%26+Emergency+Help+Platform;Connect+Donors+%26+Receivers" alt="Rakht Saathi"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Blood+Donation+%26+Emergency+Help+Platform;Connect+Donors+%26+Recipients" alt="Rakht Saathi Animation"/>
 
 </div>
 
@@ -167,9 +167,9 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keldekuldeep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keldekuldeep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keldekuldeep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keldekuldeep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -179,7 +179,7 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Keldekuldeep&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=Keldekuldeep&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
