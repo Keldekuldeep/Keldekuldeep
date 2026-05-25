@@ -2,7 +2,7 @@
 
 # ⚡ KULDEEP KELDE ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Java+Backend+Developer+☕;Spring+Boot+Enthusiast+🚀;Microservices+Architect+🏗️;DSA+Problem+Solver+💡;Building+Scalable+Solutions+⚙️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Java+Backend+Developer+☕;Spring+Boot+Expert;Microservices+Architect" alt="Typing SVG"/>
 
 <br><br>
 
@@ -95,7 +95,7 @@ public class KuldeepKelde {
 
 ## 🩸 Rakht Saathi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Blood+Donation+%26+Emergency+Help+Platform;Connect+Donors+%26+Receivers;Real-time+Blood+Requests;Emergency+Assistance+System" alt="Rakht Saathi"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Blood+Donation+%26+Emergency+Help+Platform;Connect+Donors+%26+Receivers" alt="Rakht Saathi"/>
 
 </div>
 
@@ -167,9 +167,9 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keldekuldeep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF&ring_color=00F7FF)](https://github.com/Keldekuldeep)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keldekuldeep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keldekuldeep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)](https://github.com/Keldekuldeep)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keldekuldeep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -179,7 +179,7 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Keldekuldeep&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF3131&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=FFFFFF)](https://github.com/Keldekuldeep)
+<img src="https://streak-stats.demolab.com?user=Keldekuldeep&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -189,7 +189,7 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keldekuldeep&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF3131&point=FFFFFF&area=true&area_color=00F7FF)](https://github.com/Keldekuldeep)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keldekuldeep&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -199,7 +199,7 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kuldeep_kelde?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/kuldeep_kelde/)
+<img src="https://leetcard.jacoblin.cool/kuldeep_kelde?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
 
 </div>
 
@@ -209,7 +209,7 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Keldekuldeep&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/Keldekuldeep)
+<img src="https://github-profile-trophy.vercel.app/?username=Keldekuldeep&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -219,7 +219,7 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/Keldekuldeep/Keldekuldeep/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Keldekuldeep/Keldekuldeep/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation"/>
 
 </div>
 
@@ -229,7 +229,7 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
 
@@ -239,6 +239,6 @@ HTML • CSS • JavaScript
 
 # ⚡ "Code • Build • Debug • Repeat" ⚡
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F7FF&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F7FF&height=120&section=footer" alt="Footer Wave"/>
 
 </div>
